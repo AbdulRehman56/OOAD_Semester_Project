@@ -7,3 +7,5 @@
 # build/
 # .idea/
 # *.log
+config.bat
+node_modules
